@@ -250,8 +250,11 @@
 
     .div2 {
         flex-direction: column;
-        width: 100%;
         padding: 10px;
+    }
+
+    .div2 input {
+        width: 200px;
     }
 
     .footer-top {
